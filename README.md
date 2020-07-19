@@ -1,4 +1,4 @@
-# How to get OpenGL and CUDA (OpenCL) to work on a Ubuntu 12.04 laptop with Nvidia Optimus, for the complete novice
+# How to get OpenGL and CUDA to work on a Ubuntu 12.04 laptop with Nvidia Optimus, for the complete novice
 ### February 15, 2014.
 
 ## Introduction
